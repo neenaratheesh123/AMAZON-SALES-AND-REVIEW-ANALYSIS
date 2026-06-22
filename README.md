@@ -1,2 +1,3 @@
 # AMAZON-SALES-AND-REVIEW-ANALYSIS
-This project focuses on analyzing Amazon sales data using Python to extract meaningful insights and support business decision-making.
+The EDA revealed valuable insights into Amazon product pricing ,discounts,and customer artings.
+these findings can help business optimize pricing strategies,improve product offerings,and enhance customer satisfaction.
